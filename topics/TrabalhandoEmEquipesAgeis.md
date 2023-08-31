@@ -25,7 +25,7 @@ Periodo: 29/08/23 a 29/10/23 - Instrutor: Leonardo Ropelato
 3. Responder a mudnças mais que seguir um plano.
 4. Colaboração com o cliente mais que negociação de contratos.
 
-![Quatro valores](./img/manifestoAgil.png)
+![Quatro valores](../img/manifestoAgil.png)
 
 ### Doze princípios ágeis
 
@@ -59,7 +59,7 @@ Periodo: 29/08/23 a 29/10/23 - Instrutor: Leonardo Ropelato
 - Entregas rápidas: Fazer no menor prazo com máximo valor
 - Eficiência.
 
-![Importância da agilidade](./img/importancia.png)
+![Importância da agilidade](../img/importancia.png)
 
 ### Mundo VUCA
 
@@ -90,7 +90,7 @@ Periodo: 29/08/23 a 29/10/23 - Instrutor: Leonardo Ropelato
 
 #### Modelo tradicional cascata (Waterfall)
 
-![](./img/projetoTradicional.png)
+![](../img/projetoTradicional.png)
 
 Características:
 
@@ -100,7 +100,7 @@ Características:
 
 #### Modelo Ágil com Scrum
 
-![](./img/modeloAgilScrum.jpg)
+![](../img/modeloAgilScrum.jpg)
 
 Características:
 
@@ -154,13 +154,13 @@ Dentre diversa opções, os métodos que mais se destacam são:
 
 É uma estrutura que define o que e porque algo tem que ser feito, mas deixa o 'como fazer' em aberto. 
 
-![](./img/scrumFramework.JPG)
+![](../img/scrumFramework.JPG)
 
 ### O que é XP (Extreme Programming)
 
 É uma metodologia de desenvolvimento de software do final dos anos 90 que tem como objetivo criar sistemas com alta qualidade, com base em uma interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos.
 
-![](./img/xp.JPG)
+![](../img/xp.JPG)
 
 O que tem no XP:
 
@@ -193,7 +193,7 @@ Na prática é implementado através de um quadro com três colunas:
 
 A movimentação entre essas colunas é dinâmica e instantaneamente conhecida e visualizada por todos da equipe.
 
-![](./img/quadroKanban.jpg)
+![](../img/quadroKanban.jpg)
 
 ### OKR (Objective Key Results)
 
@@ -288,17 +288,17 @@ Notícias / artigos
 
 Livros
 
-![Livros](./img/livros.png)
+![Livros](../img/livros.png)
 
 Mentoria
 
 [Mentoria - Introdução ao Scrum e à Cultura ágil](https://www.youtube.com/watch?v=j_z2JVHgmuc "Mentoria com Leonardo Ropelato")
 
-![Mentoria](./img/mentoria.png)
+![Mentoria](../img/mentoria.png)
 
 ### Certificado
 
-![Certificado](./img/certificado.png)
+![Certificado](../img/certificado.png)
 
 ```
 Disclaimer:
