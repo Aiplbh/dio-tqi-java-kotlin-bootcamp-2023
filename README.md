@@ -16,7 +16,7 @@ of each topic, and there may be inaccuracies.
 ## Cursos do treinamento
 
 - ### Princípios de Desenvolvimento Ágil e Colaborativo
-	- [Trabalhando em equipes Ágeis](./topic/TrabalhandoEmEquipesAgeis.md)
+	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md)
 	- Versionamento de código com Git e Github
 	- Desafios de projeto: Crie um portifólio vencedor
 	- Contribuindo em um projeto Open Source no GitHub
