@@ -7,7 +7,7 @@ Backend patrocinado pela TQI em parceria com a DIO. As aula de cada tópico estu
 em um arquivo separado para facilitar consultas posteriores. Todos os conteúdos refletem meu
 entendimento pessoal sobre cada tópico, podendo haver incorreções.
 
-This repository is intended to monitor my evolution in Bootcamp from Java and Kotlin to Backend
+This repository is intended to monitor my evolution in TQI Backend Code Update in Java/Kotlin Bootcamp 
 sponsored by TQI in partnership with DIO. The lessons of each topic studied were placed in a
 separate file to facilitate later consultations. All contents reflect my personal understanding
 of each topic, and there may be inaccuracies.
