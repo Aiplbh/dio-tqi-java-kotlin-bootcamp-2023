@@ -67,13 +67,13 @@ Que Deus nos abençoe nesta viagem fantástica do Desenvolvimento de Software. C
 
 - [Firezza](https://aiplbh.github.io/Fierezza/) - Loja de cosméticos
 
-- [Espaço Físico](https://github.com/Aiplbh/EspacoFisico) - Academia de ginática e estética
+- [Espaço Físico](https://aiplbh.github.io/EspacoFisico) - Academia de ginática e estética
 
 ### Projetos desenvolvidos em workshops e bootcamps
 
 - [Seletor JS estilizado](https://aiplbh.github.io/x-men-web-selector-project/)
 
-- [Covid Analysis](python/projects/chalenge-02/Projeto_covid.ipynb)
+- [Covid Analysis](python/projects/chalenge-02/)
 
 ### Cursos incríveis que já fiz na @DIO
 
