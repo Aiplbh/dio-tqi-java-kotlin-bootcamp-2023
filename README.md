@@ -1,5 +1,6 @@
+![DIO Badge Bootcamp image](./img/bootcampBadgeTQI.png)
 # dio-tqi-java-kotlin-bootcamp-2023
-Java-Kotlin Backend Bootcamp sponsored by @tqi and  @digitalinnovationone
+#### A Java-Kotlin Backend Bootcamp sponsored by @tqi and  @digitalinnovationone
 ```
 Disclaimer
 Esse repositório destina-se ao acompanhamento da minha evolução no Bootcamp de Java e Kotlin para
@@ -17,7 +18,7 @@ of each topic, and there may be inaccuracies.
 
 - ### Princípios de Desenvolvimento Ágil e Colaborativo
 	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md)
-	- Versionamento de código com Git e Github
+	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md)
 	- Desafios de projeto: Crie um portifólio vencedor
 	- Contribuindo em um projeto Open Source no GitHub
 	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java
