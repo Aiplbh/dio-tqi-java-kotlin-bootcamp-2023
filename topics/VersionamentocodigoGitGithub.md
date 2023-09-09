@@ -501,7 +501,7 @@ $ git stash pop
 
 Consulte o materia da Instrutora @elidianaandrade para continuedade do seus estudos sobre versionamento e repositórios de código.
 
-[GitHub da Elidiana Andrade sobre Versinamento de código](https://github.com/elidianaandrade/dio-curso-git-github/)
+[GitHub da Elidiana Andrade sobre Versionamento de código](https://github.com/elidianaandrade/dio-curso-git-github/)
 
 
 ## Certificado
