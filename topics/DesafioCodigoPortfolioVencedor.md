@@ -29,7 +29,7 @@ Metodologia que propõe **desafios de projetos**, que são `problematizações` 
 
 Nesse rápido curso o Education Tech Lead Venilton Jr. (@falvojr) apresentou com muita clareza a importância dos desafios de projeto na composição de um portfólio de destaque para os profissionais de tecnologia.
 
-![Certificado](../img/m2-certificado.png)
+![Certificado](./img/m2-certificado.png)
 
 
 
