@@ -73,7 +73,7 @@ Que Deus nos abençoe nesta viagem fantástica do Desenvolvimento de Software. C
 
 - [Seletor JS estilizado](https://aiplbh.github.io/x-men-web-selector-project/)
 
-- [Covid Analysis](python/projects/chalenge-02/)
+- [Covid Analysis](https://github.com/Aiplbh/dio-tech-unimedbh/blob/main/python/projects/chalenge-02/Projeto_covid.ipynb)
 
 ### Cursos incríveis que já fiz na @DIO
 
