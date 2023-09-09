@@ -20,7 +20,7 @@ of each topic, and there may be inaccuracies.
 	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md)
 	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md)
 	- Desafios de projeto: Crie um portifólio vencedor
-	- Contribuindo em um projeto Open Source no GitHub
+	- [Contribuindo em um projeto Open Source no GitHub](./topics/ContribuindoProjetoOpenSource.md)
 	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java
 	
 - ### Desmistificando Kotlin para programadores Java
