@@ -14,12 +14,12 @@ separate file to facilitate later consultations. All contents reflect my persona
 of each topic, and there may be inaccuracies.
 ```
 
-## Cursos do treinamento
+## Cursos do bootcamp
 
 - ### Princípios de Desenvolvimento Ágil e Colaborativo
 	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md)
 	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md)
-	- Desafios de projeto: Crie um portifólio vencedor
+	- [Desafios de projeto: Crie um portifólio vencedor](./topics/DesafioCodigoPortfolioVencedor.md)
 	- [Contribuindo em um projeto Open Source no GitHub](./topics/ContribuindoProjetoOpenSource.md)
 	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java
 	
