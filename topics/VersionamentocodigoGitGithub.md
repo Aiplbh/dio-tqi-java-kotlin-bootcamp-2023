@@ -28,7 +28,7 @@ Nesse treinamento veremos:
 
 - CVCS - Controle de versão centralizado: CVS, Subversion
 
-![](./img/m2-vcsCentralizado.png)
+![](../img/m2-vcsCentralizado.png)
 
 ``` 
 A desvantagem desse modelo está no fato de que se o servidor central ficar inoperante todo trabalho de versionamento fica comprometido.
@@ -36,7 +36,7 @@ A desvantagem desse modelo está no fato de que se o servidor central ficar inop
 
 - DVCS - Controle de versão dsitribuido: Git, Mercurial
 
-![](./img/m2-vcsDistribuido.png)
+![](../img/m2-vcsDistribuido.png)
 
 ``` 
 Nessa arquitetura, a base de dados de versionamento do Servidor é replicada em cada computador.
@@ -61,7 +61,7 @@ O [Git](https://git-scm.com/) é um Sistema de Controle de Versão Distribuído 
 
 - Download (Clique na figura)
 
-- [![](./img/m2-downloadGit.png)](https://git-scm.com/download/win)
+- [![](../img/m2-downloadGit.png)](https://git-scm.com/download/win)
 
 #### Fluxos básicos no Git
 
@@ -163,7 +163,7 @@ O uso de tokens é indicado em várias situações quando se trabalha com servi�
 
 Desde 2021 a plataforma GitHub deixou de aceitar, por motivos de segurança, o username / senha como autenticador de acesso aos repositórios e recursos.
 
-![Tokens](./img/m2-githubToken.png)
+![Tokens](../img/m2-githubToken.png)
 
 ### Vantagens do Token em relação à senha
 Podemos destacar as vantagens do uso de tokens em relação à autenticação por senha, considerando os tokens são: 
@@ -253,7 +253,7 @@ Acesse a sua conta do GitHub, clique no '+' no canto superior direito, e em 'New
 - Escolha como deseja inicializar seu repositório com um arquivo README.md e diretório gitignore (se quiser vazio, deixe as opções desmarcadas)
 - Clique em [Create repository]
 
-![Novo repositório](./img/m2-createNewRepo.PNG)
+![Novo repositório](../img/m2-createNewRepo.PNG)
 
 ---
 
@@ -394,13 +394,13 @@ $ git push -u origin main
 
 Usando o ícone de edição (pequeno lápis) pode-se alterar arquivos no servidor remoto.
 
-![Editando no remoto](./img/m2-editandoRemote.png)
+![Editando no remoto](../img/m2-editandoRemote.png)
 
 Também é possível editar teclando . (ponto). Isso vai carregar um aplicativo semelhante ao Visual Studio Code.
 
 Após feitas as alterações será apresentado a opção de se fazer o comite das alterações no botão [Commit changes]. 
 
-![Comit das alterações](./img/m2-comitandoRemote.png)
+![Comit das alterações](../img/m2-comitandoRemote.png)
 
 Observe que essas alterações não são propagadas para o nosso repositório local.
 
@@ -506,5 +506,5 @@ Consulte o materia da Instrutora @elidianaandrade para continuedade do seus estu
 
 ## Certificado
 
-![Certificado](./img/m2-certificadoGitGithub.png)
+![Certificado](../img/m2-certificadoGitGithub.png)
 
