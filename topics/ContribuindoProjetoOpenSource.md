@@ -1,5 +1,5 @@
 
-![Lagoa da Pampulha - BH](./img/dp-BHPampulha.PNG "Lgoa da Pampulha - Belo Horizonte, MG")
+![Lagoa da Pampulha - BH](../img/dp-BHPampulha.PNG "Lgoa da Pampulha - Belo Horizonte, MG")
 # Aiplbh - Argemiro Leite 
 
 
@@ -8,19 +8,19 @@ Olá amigos. Sou Argemiro Leite. Moro em BH há mais de seis décadas. Envolvido
 Aqui pelas montanhas de Belo, coisas boas sempre acontecem. Entre um `commit` e outro tem sempre um tempinho para um pão de queijo quentinho com café. "Isso bão dimais da conta, uai!".
 
 
-![Cesto de pão de queijo com café](./img/dp-paoqueijo.png)
+![Cesto de pão de queijo com café](../img/dp-paoqueijo.png)
 
 Nos últimos dois anos tenho me dedicado intensamente na atualização de competências com foco em desenvolvimento full-stack, computação em nuvem, ciência de dados, sistemas embarcados, IoT, Blockchain e projetos Web3.
 
 Um resumo da minha trajetória profissional pode ser vista [aqui](https://aiplbh.github.io/resume/) nesses prático currículo desenvolvido em um Bootcamp da @DIO com ajuda do Venilton @falvojr.
 
-![](./img/dp-working-hard.png)
+![](../img/dp-working-hard.png)
 
 Que Deus nos abençoe nesta viagem fantástica do Desenvolvimento de Software. Conto com vocês. 
 
 "I'm older now but still running, against the wind..." Bob Seger"
 
-![Stil running...](./img/dp-stillrunning.png)
+![Stil running...](../img/dp-stillrunning.png)
 
 ## Conecte-se comigo
 
