@@ -1,5 +1,8 @@
 # Crie um portfólio vencedor
-
+```
+Bootcamp Code Update TQI Back End com Java e Kotlin
+Periodo: 29/08/23 a 29/10/23 - Instrutor: Venilton Falvo Jr @falvojr
+```
 ## PBL - Project Based Learning (Aprendizagem baseada em projetos)
 
 Metodologia que propõe **desafios de projetos**, que são `problematizações` muito próximas das exigências do mundo real e que proporcionam aos participantes um excelente ambiente para aquisição de novas competências com uma curva rápida de aprendizado. Entre os benefícios estão:
@@ -29,7 +32,7 @@ Metodologia que propõe **desafios de projetos**, que são `problematizações` 
 
 Nesse rápido curso o Education Tech Lead Venilton Jr. (@falvojr) apresentou com muita clareza a importância dos desafios de projeto na composição de um portfólio de destaque para os profissionais de tecnologia.
 
-![Certificado](./img/m2-certificado.png)
+![Certificado](../img/m2-certificadoPortfolioVencedor.png)
 
 
 
