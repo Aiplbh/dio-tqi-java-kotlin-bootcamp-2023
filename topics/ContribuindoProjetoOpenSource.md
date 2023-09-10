@@ -1,26 +1,52 @@
+# Desafio de Código - Contribuindo com um projeto Open Source
 
-![Lagoa da Pampulha - BH](../img/dp-BHPampulha.PNG "Lgoa da Pampulha - Belo Horizonte, MG")
+Nesse projeto foi proposto a participação no projeto Open Souce criado pela Instrutora Elidiana Andrade disponibilizado através do repositório da [Elidiana](https://github.com/elidianaandrade/dio-lab-open-source).
+
+Nossa tarefa consiste em:
+
+1. Fazer um fork do projeto 
+
+2. Criar um repositório local.
+```
+git clone https://github.com/Aiplbh/dio-lab-open-source.git
+```
+3. Manter a sincronização entre o meu repositório local e o repositório original
+
+```
+git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git
+```
+
+5. Dentro da pasta `community` , criei um arquivo em Markdown (extensão .md) e nomeie com o mesmo nome do meu usuário no GitHub: `Aiplbh.md`
+
+6. Inclui as alterações (contribuições) solicitadas no arquivo markdown. Seguem as contribuições solicitadas:
+
+#### Arquivo markdown gerado (Aipl.md)
+
+---
+---
+
+![Lagoa da Pampulha - BH](https://i.imgur.com/iHuAYcL.png "Lagoa da Pampulha - Belo Horizonte, MG")
 # Aiplbh - Argemiro Leite 
 
 
-Olá amigos. Sou Argemiro Leite. Moro em BH há mais de seis décadas. Envolvido com tecnologia há mais de 35 primaveras, sigo fascinado e empolgado com novas descobertas. 
+Olá amigos. Sou Argemiro Leite (@Aiplbh) e moro em BH há mais de seis décadas. Envolvido com tecnologia há mais de 35 primaveras, sigo fascinado e empolgado com novas descobertas. 
 
-Aqui pelas montanhas de Belo, coisas boas sempre acontecem. Entre um `commit` e outro tem sempre um tempinho para um pão de queijo quentinho com café. "Isso bão dimais da conta, uai!".
+Aqui pelas montanhas de Belo, coisas boas sempre acontecem. Entre um `commit` e outro tem sempre um tempinho para um pão de queijo quentinho com café. "Isso é bão dimais da conta, uai!".
 
 
-![Cesto de pão de queijo com café](../img/dp-paoqueijo.png)
+![Cesto de pão de queijo com café](https://i.imgur.com/fH9qc1g.png)
 
 Nos últimos dois anos tenho me dedicado intensamente na atualização de competências com foco em desenvolvimento full-stack, computação em nuvem, ciência de dados, sistemas embarcados, IoT, Blockchain e projetos Web3.
 
-Um resumo da minha trajetória profissional pode ser vista [aqui](https://aiplbh.github.io/resume/) nesses prático currículo desenvolvido em um Bootcamp da @DIO com ajuda do Venilton @falvojr.
+Um resumo da minha trajetória profissional pode ser vista [aqui](https://aiplbh.github.io/resume/) nesses prático currículo desenvolvido em um Bootcamp da @DIO com ajuda do Venilton (Education Tech Lead da DIO) @falvojr.
 
-![](../img/dp-working-hard.png)
+![Man working hard at a notebook](https://i.imgur.com/AnvIYvo.png)
 
 Que Deus nos abençoe nesta viagem fantástica do Desenvolvimento de Software. Conto com vocês. 
 
 "I'm older now but still running, against the wind..." Bob Seger"
 
-![Stil running...](../img/dp-stillrunning.png)
+![Stil running...](https://i.imgur.com/zixn465.png)
 
 ## Conecte-se comigo
 
@@ -67,13 +93,43 @@ Que Deus nos abençoe nesta viagem fantástica do Desenvolvimento de Software. C
 
 - [Firezza](https://aiplbh.github.io/Fierezza/) - Loja de cosméticos
 
-- [Espaço Físico](https://aiplbh.github.io/EspacoFisico) - Academia de ginática e estética
+- [Espaço Físico](https://aiplbh.github.io/EspacoFisico/) - Academia de ginática e estética
 
 ### Projetos desenvolvidos em workshops e bootcamps
 
 - [Seletor JS estilizado](https://aiplbh.github.io/x-men-web-selector-project/)
 
-- [Covid Analysis](https://github.com/Aiplbh/dio-tech-unimedbh/blob/main/python/projects/chalenge-02/Projeto_covid.ipynb)
+- [Covid Analysis](https://github.com/Aiplbh/dio-tech-unimedbh/tree/main/python/projects/chalenge-02)
 
 ### Cursos incríveis que já fiz na @DIO
+
+- Arquitetura de Sistemas Avançado | Bootcamp Take Blip Fullstack Developer #2
+
+- Programação para internet com JavaScript | Bootcamp Cognizant Cloud Data Engineer
+
+- Introdução a microsserviços com .NET | Bootcamp MRV Front End SPA Developer
+
+- Fundamentos de Arquitetura de Sistemas | Bootcamp LocalizaLabs .NET developer
+
+- Treinamento de Redes Neurais com Transfer Learning | Bootcamp Geração Tech Unimed-BH - Ciência de dados
+
+---
+---
+
+7. Adicionei as alterações à "staging area" com o comando:
+```
+git add community/Aipl.md
+```
+8. Criei um `commit` e adicionando a mensagem indicativa da adição do meu perfil:
+```
+git commit -m "feat: add Aiplbh profile"
+```
+9. Enviei as alterações para o meu repositório remoto (forkado):
+```
+git push origin feat/community/Aiplbh
+```
+
+10. Efetuei um `pull request` para mesclar as alterações feitas no meu repositório com o repositório original da Elidiana.
+
+
 
