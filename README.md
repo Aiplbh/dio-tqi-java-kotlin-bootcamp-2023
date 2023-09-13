@@ -25,8 +25,8 @@ of each topic, and there may be inaccuracies.
 	
 - ### Desmistificando Kotlin para programadores Java
 	- [Conhecendo o Kotlin e sua documentação oficial]()
-   	- [Introdução prática à linguagem de programação Kotlin](./IntroducaoPraticaLinguagemKotlin.md)
-   	- [Estruturas de controle de fluxo e coleçõs em Kotlin]()
+   	- [Introdução prática à linguagem de programação Kotlin](./topics/IntroducaoPraticaLinguagemKotlin.md)
+   	- [Estruturas de controle de fluxo e coleções em Kotlin](./topics/EstruturasControleFluxoColecoesKotlin.md)
    	- [Orientação a Objetos e Tipos de Classes na prática com Kotlin]()
    	- [O poder das funções em Kotlin]()
    	- [Tratamento de exceções em Kotlin]()
