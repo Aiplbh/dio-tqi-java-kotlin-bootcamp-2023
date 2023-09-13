@@ -133,7 +133,7 @@ git push origin feat/community/Aiplbh
 
 ### Certificado
 
-![Certificado](m2-certificadoContribuicaoProjeto.png)
+![Certificado](./img/dp-contribuicaoProjetoOpenSource.png)
 
 ```
 Disclaimer:
