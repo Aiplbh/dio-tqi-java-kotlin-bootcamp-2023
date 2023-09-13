@@ -34,7 +34,13 @@ Nesse rápido curso o Education Tech Lead Venilton Jr. (@falvojr) apresentou com
 
 ![Certificado](../img/m2-certificadoPortfolioVencedor.png)
 
+```
+Disclaimer:
 
+Todos material aqui apresentado foi gerado a partir de minhas anotações pessoais de aula
+durante o excelente treinamento ministrado  pelo Instrutor Venilton Falvo Jr. @falvojr.
+Proibida a reprodução e veiculação sem a ciência e autorização da DIO.
+```
 
 
 
