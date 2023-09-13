@@ -131,5 +131,14 @@ git push origin feat/community/Aiplbh
 
 10. Efetuei um `pull request` para mesclar as alterações feitas no meu repositório com o repositório original da Elidiana.
 
+### Certificado
 
+![Certificado](m2-certificadoContribuicaoProjeto.png)
 
+```
+Disclaimer:
+
+Todo o material aqui apresentado foi gerado a partir de minhas anotações de aula durante o excelente
+treinamento ministrado  pela Instrutora Elidiana Andrade @elidianaandrade . Proibida a reprodução e veiculação
+sem a ciência e autorização da DIO.
+```
