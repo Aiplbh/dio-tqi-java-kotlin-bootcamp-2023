@@ -508,3 +508,10 @@ Consulte o materia da Instrutora @elidianaandrade para continuedade do seus estu
 
 ![Certificado](../img/m2-certificadoGitGithub.png)
 
+```
+Disclaimer:
+
+Todo o material aqui apresentado foi gerado a partir de minhas anotações de aula durante o excelente
+treinamento ministrado  pela Instrutora Elidiana Andrade @elidianaandrade . Proibida a reprodução e veiculação
+sem a ciência e autorização da DIO.
+```
