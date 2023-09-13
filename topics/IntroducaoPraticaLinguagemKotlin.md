@@ -383,4 +383,12 @@ https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos)
 
 ## Certificado
 
-![Certificado](../img/m3-CertificadoIntroKotlin.png)
+![Certificado](../img/m3-CertificadoIntroKotlin.PNG)
+
+```
+Disclaimer:
+
+Todos material aqui apresentado foi gerado a partir de minhas anotações pessoais de aula durante o excelente treinamento ministrado
+pelo Instrutor Venilton Falvo Jr. @falvojr.
+Proibida a reprodução e veiculação sem a ciência e autorização da DIO.
+```
