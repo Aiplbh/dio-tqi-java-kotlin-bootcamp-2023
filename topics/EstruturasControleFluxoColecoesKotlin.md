@@ -736,7 +736,7 @@ https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos)
 
 ## Certificado
 
-![Certificado](../img/m3-CertificadoIntroKotlin.PNG)
+![Certificado](../img/)
 
 ```
 Disclaimer:
