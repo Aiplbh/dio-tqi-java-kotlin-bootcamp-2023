@@ -218,13 +218,13 @@ fun main() {
 ```
 **Observações e comentários do código**
 
-- //1. Define um *iterador* em uma classe. Deve ser nomeado *`iterator()`* e ter o modificador *`operator`*.
+- //1. Define um *iterador* para a classe *Animal*. Deve ser nomeado *`iterator()`* e ter o modificador *`operator`*.
 
 - //2. Retorna o iterador que atende aos seguintes requisitos do método:
     - next(): Animal
     - hasNext(): Boolean
 
-- //3. Percorre a lista `animals` na variável `zoo` com o iterador definido pelo usuário.
+- //3. Percorre a lista `zoo` com o iterador *animal* definido pelo usuário.
 
 ### Ranges | loops com int
 
@@ -295,7 +295,7 @@ fun main() {
 
 **Saída do código**
 ```
-0123 012 2468 3210
+abcd zxvt 
 ```
 
 ### Ranges | if e loops com char
