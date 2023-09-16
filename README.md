@@ -27,7 +27,7 @@ of each topic, and there may be inaccuracies.
 	- [Conhecendo o Kotlin e sua documentação oficial]()
    	- [Introdução prática à linguagem de programação Kotlin](./topics/IntroducaoPraticaLinguagemKotlin.md)
    	- [Estruturas de controle de fluxo e coleções em Kotlin](./topics/EstruturasControleFluxoColecoesKotlin.md)
-   	- [Orientação a Objetos e Tipos de Classes na prática com Kotlin]()
+   	- [Orientação a Objetos e Tipos de Classes na prática com Kotlin](./topics/)
    	- [O poder das funções em Kotlin]()
    	- [Tratamento de exceções em Kotlin]()
    	- [Abstraindo formações da DIO usando Orientação a Objetos com Kotlin]()
