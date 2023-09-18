@@ -21,7 +21,7 @@ of each topic, and there may be inaccuracies.
 	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md) ✅
 	- [Desafios de projeto: Crie um portfolio vencedor](./topics/DesafioCodigoPortfolioVencedor.md) ✅
 	- [Contribuindo em um projeto Open Source no GitHub](./topics/ContribuindoProjetoOpenSource.md) ✅
-	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java ✅
+	- [Aula inaugural - Code Update TQI - Backend com Kotlin e Java](https://web.dio.me/live/aula-inaugural-code-update-tqi-backend-com-kotlin-e-java/learning/c10e727a-d700-497f-b1ae-d4fd259353ff?back=/track/code-update-tqi-backend-com-kotlin-e-java) ✅
 	
 - ### Desmistificando Kotlin para programadores Java
 	- [Conhecendo o Kotlin e sua documentação oficial]() ✅
