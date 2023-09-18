@@ -17,18 +17,18 @@ of each topic, and there may be inaccuracies.
 ## Cursos do bootcamp
 
 - ### Princípios de Desenvolvimento Ágil e Colaborativo
-	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md)
-	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md)
-	- [Desafios de projeto: Crie um portfolio vencedor](./topics/DesafioCodigoPortfolioVencedor.md)
-	- [Contribuindo em um projeto Open Source no GitHub](./topics/ContribuindoProjetoOpenSource.md)
-	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java
+	- [Trabalhando em equipes Ágeis](./topics/TrabalhandoEmEquipesAgeis.md) ✅
+	- [Versionamento de código com Git e Github](./topics/VersionamentocodigoGitGithub.md) ✅
+	- [Desafios de projeto: Crie um portfolio vencedor](./topics/DesafioCodigoPortfolioVencedor.md) ✅
+	- [Contribuindo em um projeto Open Source no GitHub](./topics/ContribuindoProjetoOpenSource.md) ✅
+	- Aula inaugural - Code Update TQI - Backend com Kotlin e Java ✅
 	
 - ### Desmistificando Kotlin para programadores Java
-	- [Conhecendo o Kotlin e sua documentação oficial]()
-   	- [Introdução prática à linguagem de programação Kotlin](./topics/IntroducaoPraticaLinguagemKotlin.md)
-   	- [Estruturas de controle de fluxo e coleções em Kotlin](./topics/EstruturasControleFluxoColecoesKotlin.md)
-   	- [Orientação a Objetos e Tipos de Classes na prática com Kotlin](./topics/)
-   	- [O poder das funções em Kotlin]()
+	- [Conhecendo o Kotlin e sua documentação oficial]() ✅
+   	- [Introdução prática à linguagem de programação Kotlin](./topics/IntroducaoPraticaLinguagemKotlin.md) ✅
+   	- [Estruturas de controle de fluxo e coleções em Kotlin](./topics/EstruturasControleFluxoColecoesKotlin.md) ✅
+   	- [Orientação a Objetos e Tipos de Classes na prática com Kotlin](./topics/OrientacaoObjetoTipoClasse.md) ✅
+   	- [O poder das funções em Kotlin]() 🧑🏻‍💻🛠️
    	- [Tratamento de exceções em Kotlin]()
    	- [Abstraindo formações da DIO usando Orientação a Objetos com Kotlin]()
 
