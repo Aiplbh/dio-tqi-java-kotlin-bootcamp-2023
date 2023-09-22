@@ -510,7 +510,7 @@ Ainda assim, com as explicações do Instrutor Venilton foi possível compreende
 
 ## Certificado
 
-![Certificado](../img/m3-CertificadoPoderFuncoesKotlin.png)
+![Certificado](../img/m3-certificadoPoderFuncoesKotlin.png)
 
 ```
 Disclaimer:
