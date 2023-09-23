@@ -37,8 +37,8 @@ of each topic, and there may be inaccuracies.
    	- [Desafios de Código: Singleton](./topics/ChallengeSingleton.md)
    	- [Desafios de Código: Builder](./topics/ChallengeBuilder.md)
 	- [Desafios de Código: Adapter](./topics/ChallengeAdapter.md)
-        - [Desafios de Código: Extension Function](./topics/ChallengeExtensionFunction.md)
-   	- [Desafios de Código: Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
+	- [Desafios de Código: Extension Function](./topics/ChallengeExtensionFunction.md)
+	- [Desafios de Código: Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
    	  
 - ### Trabalhando com banco de dados SQL e NoSQL
 - ### Ganhando produtividade com Java e Spring Boot
