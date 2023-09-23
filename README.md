@@ -32,13 +32,13 @@ of each topic, and there may be inaccuracies.
    	- [Tratamento de exceções em Kotlin](./topics/TratamentoExcecoesKotlin.md) ✅
    	- [Abstraindo formações da DIO usando Orientação a Objetos com Kotlin]() 🧑🏻‍💻🛠️
 
-- ### Explorando Padrões de Projetos na prática com Kotlin
-  	- [Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) 🧑🏻‍💻🛠️
-   	- [Desafios de Código: Singleton](./topics/ChallengeSingleton.md)
-   	- [Desafios de Código: Builder](./topics/ChallengeBuilder.md)
-	- [Desafios de Código: Adapter](./topics/ChallengeAdapter.md)
-	- [Desafios de Código: Extension Function](./topics/ChallengeExtensionFunction.md)
-	- [Desafios de Código: Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
+- ### Explorando Padrões de Projetos na prática com Kotlin (Code Challenges)
+  	- [Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) 🧑🏻‍💻🛠️
+   	- [Singleton](./topics/ChallengeSingleton.md)
+   	- [Builder](./topics/ChallengeBuilder.md)
+	- [Adapter](./topics/ChallengeAdapter.md)
+	- [Extension Function](./topics/ChallengeExtensionFunction.md)
+	- [Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
    	  
 - ### Trabalhando com banco de dados SQL e NoSQL
 - ### Ganhando produtividade com Java e Spring Boot
