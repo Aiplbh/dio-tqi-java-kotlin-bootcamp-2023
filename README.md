@@ -33,6 +33,13 @@ of each topic, and there may be inaccuracies.
    	- [Abstraindo formações da DIO usando Orientação a Objetos com Kotlin]() 🧑🏻‍💻🛠️
 
 - ### Explorando Padrões de Projetos na prática com Kotlin
+  	- [Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) 🧑🏻‍💻🛠️
+   	- [Desafios de Código: Singleton](./topics/ChallengeSingleton.md)
+   	- [Desafios de Código: Builder](./topics/ChallengeBuilder.md)
+   	- [Desafios de Código: Adapter](./topics/ChallengeAdapter.md)
+        - [Desafios de Código: Extension Function](./topics/ChallengeExtensionFunction.md)
+   	- [Desafios de Código: Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
+   	  
 - ### Trabalhando com banco de dados SQL e NoSQL
 - ### Ganhando produtividade com Java e Spring Boot
 - ### Modernizando seu Backend com Kotlin e Spring Boot
