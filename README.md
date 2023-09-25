@@ -33,8 +33,8 @@ of each topic, and there may be inaccuracies.
    	- [Abstraindo formações da DIO usando Orientação a Objetos com Kotlin]() 🧑🏻‍💻🛠️
 
 - ### Explorando Padrões de Projetos na prática com Kotlin (Code Challenges)
-  	- [Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) 🧑🏻‍💻🛠️
-   	- [Singleton](./topics/ChallengeSingleton.md)
+  	- [Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) ✅
+   	- [Singleton](./topics/ChallengeSingleton.md) 🧑🏻‍💻🛠️
    	- [Builder](./topics/ChallengeBuilder.md)
 	- [Adapter](./topics/ChallengeAdapter.md)
 	- [Extension Function](./topics/ChallengeExtensionFunction.md)
