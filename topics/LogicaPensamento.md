@@ -1,4 +1,4 @@
-# Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+# Aperfeiçoe Sua Lógica e Pensamento Computacional
 
 ```
 Bootcamp Code Update TQI Back End com Java e Kotlin
