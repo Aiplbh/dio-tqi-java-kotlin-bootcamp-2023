@@ -31,7 +31,7 @@ O objetivo geral do curso é fornecer uma introdução aos Bancos de Dados Relac
 
 ### Estrutura de um Banco de Dados Relacional
 
-![Banco de Dados Relacional](./img/m4-estruturaBancoRelacional.png)
+![Banco de Dados Relacional](../img/m4-estruturaBancoRelacional.png)
 
 
 ### Tipos de Bancos de Dados
@@ -117,7 +117,7 @@ O Modelo Entidade-Relacionamento (MER) é representado através de diagramas cha
 
 ### Modelo de estudo: Reserva de viagens
 
-![MER Reserva de viagens](./img/m4-relacionamentos.png)
+![MER Reserva de viagens](../img/m4-relacionamentos.png)
 
 
 ### Criando MER com IA
@@ -705,7 +705,7 @@ INNER JOIN destino ds ON rs.id_destino = ds.id
 
 O INNER JOIN corresponde ao Diagrama de Venn abaixo:
 
-![Inner Join](./img/m4-innerJoin.png)
+![Inner Join](../img/m4-innerJoin.png)
 
 **LEFT JOIN**
 
@@ -743,7 +743,7 @@ INNER JOIN destino ds ON rs.id_destino = ds.id
 ```
 Resultado:
 
-![INNER JOIN](./img/m4-innerjoinTable.png)
+![INNER JOIN](../img/m4-innerjoinTable.png)
 
 
 LEFT JOIN
@@ -755,11 +755,11 @@ LEFT JOIN destino ds ON rs.id_destino = ds.id
 ```
 Resultado:
 
-![LEFT JOIN](./img/m4-leftjoinTable.png)
+![LEFT JOIN](../img/m4-leftjoinTable.png)
 
 O LEFT JOIN corresponde ao Diagrama de Venn abaixo:
 
-![LEFT Join](./img/m4-leftJoin.png)
+![LEFT Join](../img/m4-leftJoin.png)
 
 **RIGHT JOIN**
 
@@ -787,11 +787,11 @@ ON rs.id_destino = ds.id
 ;
 ```
 Resultado:
-![RIGHT JOIN](./img/m4-rightjoinTable.png)
+![RIGHT JOIN](../img/m4-rightjoinTable.png)
 
 O RIGHT JOIN corresponde ao Diagrama de Venn abaixo:
 
-![RIGHT Join](./img/m4-rightJoin.png)
+![RIGHT Join](../img/m4-rightJoin.png)
 
 ### SubConsultas ou consultas aninhadas
 
@@ -894,7 +894,7 @@ GROUP BY id_destino;
 ```
 Saída:
 
-![Saída](./img/m4-countGroupBy.png)
+![Saída](../img/m4-countGroupBy.png)
 
 #### *Ordenação de resultados*
 
