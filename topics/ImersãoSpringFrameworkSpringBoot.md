@@ -49,7 +49,7 @@ Aqui estão alguns dos principais conceitos e funcionalidades do Spring Framewor
 
 - **Módulos:** O Spring Framework é modular e consiste em vários módulos, como Spring Core Container, Spring Data Access/Integration, Spring Web, Spring AOP e muito mais. Isso permite que você escolha os módulos relevantes para o seu projeto.
 
-- ![Estrutura modular do Spring](./img/m6-springModules.png)
+- ![Estrutura modular do Spring](../img/m6-springModules.png)
 
 - **Suporte a Transações**: O Spring oferece suporte a transações declarativas e programáticas, permitindo que você gerencie transações de maneira consistente e eficiente em seu aplicativo.
 
@@ -203,7 +203,7 @@ Abaixo estão os principais startes e sua aplicações:
 
 Basta fornecer as opções de projeto e clicar em [**Generate**]
 
-![Spring Initializr](./img/m6-telaSpringInitializr.png)
+![Spring Initializr](../img/m6-telaSpringInitializr.png)
 
 Será gerado um arquivo compactado que deverá ser descompactado na pasta do seu projeto.
 
@@ -421,13 +421,13 @@ orientação a objetos ao contexto de banco de dados relacional.
 
 O uso de ORM é realizado através do mapeamento de objeto para uma tabela por uma biblioteca ou framework.
 
-![ORM](./img/m6-ORM.png)
+![ORM](../img/m6-ORM.png)
 
 #### Java Persistance API
 
 JPA é uma especificação baseada em interfaces, que através de um framework realiza operações de persistência de objetos em Java. Existem várias implementações de JPA no mercado. O Hibernate é apenas uma delas;
 
-![Soluções comerciais de JPA](./img/m6-implementacaoJPA.png)
+![Soluções comerciais de JPA](../img/m6-implementacaoJPA.png)
 
 #### Mapeamentos
 
@@ -508,7 +508,7 @@ public class ProdutoService {
 
 #### Entity Manager
 
-![EntityManager](./img/m6-entityManager.png)
+![EntityManager](../img/m6-entityManager.png)
 
 O `EntityManager` é uma parte fundamental do Java Persistence API (JPA), que é uma especificação para mapeamento objeto-relacional em Java. Ele é responsável por gerenciar entidades em um contexto de persistência e facilitar a comunicação entre objetos Java e um banco de dados relacional. 
 
@@ -824,7 +824,7 @@ Como uma crítica constutiva sugiro alinhar o conteúdo que está na plataforma 
 
 ## Certificado
 
-![Certificado](./img/m3-certificadoSpringBootFramework.png)
+![Certificado](../img/m3-certificadoSpringBootFramework.png)
 
 ```
 Disclaimer:
