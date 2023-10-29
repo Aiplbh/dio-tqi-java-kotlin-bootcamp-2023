@@ -297,7 +297,7 @@ pasta_apache_maven/conf/settings.xml
 ```
 Basta procurar no arquivo a seção `<mirrors>` e descomentar o código referente ao repositório desejado. Abaixo um exemplo do *settings.xml*:
 
-![Arquivo settings.xml](./img/m5-repoConfigSettingsXML.png)
+![Arquivo settings.xml](../img/m5-repoConfigSettingsXML.png)
 
 **Repositório Local**
 
@@ -547,7 +547,7 @@ O Maven Build Lifecycle é composto por três principais fases (ou ciclos):
 
 ## Projetos multi-módulos
 
-![Projetos Multi Módulos](./img/m5-multiModulo.png)
+![Projetos Multi Módulos](../img/m5-multiModulo.png)
 
 Para minimizar a complexidade de se trabalhar com grandes projetos interligados, o Maven possibilita a criação de um projeto `multi-módulo`, onde um projeto `agregador`.
 
@@ -676,7 +676,7 @@ Como crítica construtiva sugiro mais cuidado na apresentação do conteúdo uti
 - [Apache Guides Plugin Introduction](https://maven.apache.org/guides/introduction/introduction-to-plugins.html)
 
 ## Certificado
-![Certificado](./img/m5-certificadoGerenciaDependenciaBuildMaven.png)
+![Certificado](../img/m5-certificadoGerenciaDependenciaBuildMaven.png)
 
 ```
 Disclaimer:
