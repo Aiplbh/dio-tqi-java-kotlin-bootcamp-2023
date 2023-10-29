@@ -34,12 +34,24 @@ of each topic, and there may be inaccuracies.
 
 - ### Explorando Padrões de Projetos na prática com Kotlin (Code Challenges)
   	- [Aperfeiçoe Sua Lógica e Pensamento Computacional](./topics/LogicaPensamento.md) ✅
-   	- [Singleton](./topics/ChallengeSingleton.md) 🧑🏻‍💻🛠️
-   	- [Builder](./topics/ChallengeBuilder.md)
+   	- [Singleton](./topics/ChallengeSingleton.md) ✅
+   	- [Builder](./topics/ChallengeBuilder.md) 🧑🏻‍💻🛠️
 	- [Adapter](./topics/ChallengeAdapter.md)
 	- [Extension Function](./topics/ChallengeExtensionFunction.md)
 	- [Processamento Paralelo / Assíncrono](./topics/ChallengeProcessamentoParalelo.md)
    	  
 - ### Trabalhando com banco de dados SQL e NoSQL
+  	- [Introdução a Banco de Dados Relacionais (SQL)](./topics/IntroBancoDadosRelacional.md) ✅
+  	- [Introdução a Banco de Dados NoSQL](./topics/IntroBancoDadosNoSql.md) ✅
+ 
 - ### Ganhando produtividade com Java e Spring Boot
+	- [Gerenciamento de Dependências e Build em Java com Maven](./topics/GerenciamentoDependênciasBuildMaven.md) ✅
+   	- [Imersão no Spring Framework com Spring Boot](./topics/ImersãoSpringFrameworkSpringBoot.md) ✅
+   	- [Criando uma API REST Documentada com Spring Web e Swagger](./topics/CriandoApiRestComSpringWeb-Swagger.md) ✅
+   	- [Adicionando Segurança a uma API REST com Spring Security](./topics/AdicionandoSegurançaSpringSecurity.md) ✅
+   	- [Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka](./topics/ArquiteturaOrientadaEventos.md) 🧑🏻‍💻🛠️
+
 - ### Modernizando seu Backend com Kotlin e Spring Boot
+	- [Contextualizando o Desenvolvimento Web com Spring Boot 3](./topics/ContextualizandoDesenvolvimentoWebSpringBoot.md) ✅🧑🏻‍💻
+   	- []()
+   	- []()
