@@ -167,7 +167,7 @@ O Atlas já traz um módulo de monitoramento nativo sem necessidade de se coloca
 
 Como visto anteriormente os Banco de Dados Não-realcionais possuem as seguintes estruturas de persistência:
 
-![Estrutura MongoDB](./img/m4-estruturaMongoDb.png)
+![Estrutura MongoDB](../img/m4-estruturaMongoDb.png)
 
 
 **Documentos**
